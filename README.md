@@ -1,6 +1,3 @@
-<p align="center">
-# backend-sending-messages
-</p>
 
 ## 🚀 Tecnologias
 
@@ -33,8 +30,8 @@ $ npm install
 # Execute a aplicação 
 executar npm run dev
 # O servidor inciará na porta:3000 caso não esteja sendo usada - acesse <http://localhost:3333>
-crie uma conta no site [twilio](https://twilio.com)
-# siga o passo a passo!
+crie uma conta no site do twilio siga o passo a passo! 
+# https://twilio.com
 crie um arquivo .env e insira suas keys 
 # keys adquiridas na twilio
 ```
